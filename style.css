@@ -1,0 +1,95 @@
+*{
+    margin: 0;
+    padding: 0px;
+}
+body{
+    scroll-behavior: smooth;
+    background-color: #FFFFFF;
+}
+section{
+  margin: 20px 0px;
+}
+.container{
+    max-width: 1145px;
+    width: 100%;
+    margin: auto;
+}
+.main-div ul {
+    margin-right: 15px;
+}
+.main-div ul li{
+    list-style: none;
+    display: inline-block;
+    padding: 10px 10px 10px 10px;
+    float: right;
+}
+#first-section{
+    margin-top: 80px;
+}
+.two-box{
+    display: flex;
+    justify-content: start;
+}
+.box-one{
+    max-width: 50%;
+    width: 100%;
+    padding: 10px;
+}
+.box-one h1{
+ color: #363958;
+   margin-bottom: 4px;
+ 
+}
+.box-one h2{
+     
+    color: #FF8C72;
+   }
+   .box-one p{
+    margin: 15px 0px;
+    width: 60%;
+   }
+button{
+    background-image: linear-gradient(180deg,#FA7161,#F96D61);
+    border: none;
+    color: white;
+    padding: 10px;
+    max-width: 100px;
+    width: 100%;
+    border-radius: 5px;
+    cursor: pointer;
+}
+.box-two{
+    max-width: 50%;
+    width: 100%;
+    padding: 10px;
+}
+.box-two img{
+    width: 70%;
+    margin-top:-90px;
+    padding-left: 20px;
+}
+.hi{
+ 
+    margin-left: 100px;
+    margin-top: 10px;
+ 
+}
+.hi h1{
+    margin-bottom: 30px;
+}
+.hi button{
+    background-image: linear-gradient(180deg,#FA7161,#F96D61);
+    border: none;
+    color: white;
+    padding: 10px;
+    max-width: 150px;
+    width: 100%;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-top: 15px;
+}
+.hi p{
+    margin: 15px 0px;
+    width: 85%;
+}
+ 
