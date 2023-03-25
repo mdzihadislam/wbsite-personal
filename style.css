@@ -92,4 +92,91 @@ button{
     margin: 15px 0px;
     width: 85%;
 }
+#second-section{
+    background-color:#F8F9FC;
+    margin: 80px 0px;
+    height: 55vh;
+}
+#second-section h1{
+    color: #363958;
+    text-align: center;
+    padding: 20px 0px;
+}
+#second-section span{
+    color: #F46060;
+}
+#third-section{
+    margin-bottom: 50px;
+}
+.all-card{
+    display: flex;
+    justify-content: start;
+    max-width: 100%;
+    width: 100%;
+    padding: 20px 0px;
+}
+.card1{
+    max-width: 28%;
+    max-width: 100%;
+    background-color: #FFFFFF;
+    margin: 15px 15px;
+    border-radius: 10px;
+    padding: 20px 15px;
+    box-shadow: -1px 2px 6px 0px #7d7b7b;
+}
+.card1 img{
+    width: 100%;
+    
+}
+.card1 .h1-p h3{
+       padding: 15px 0px;
+       color: #363958;
+}
+.card1 .h1-p p{
+     
+    color: #363958;
+}
+.main-div4{
+    width: 80%;
+    background-image: url("img/Group_33094_1.png");
+    background-size: cover;
+    height: 15vh;
+   border-top-right-radius: 18px;
+   border-top-left-radius: 18px;
+   border-bottom-right-radius: 18px;
+   border-bottom-left-radius: 18px;
+   margin: auto;
+}
+.imgg{
+    padding: 50px 20px 0px 20px;
+    display: flex;
+    justify-content: space-between;
+    
+}
+.imgg h1{
+    color: white;
+}
+.footer{
+    width: 100%;
  
+    text-align: center;
+}
+.footer a{
+ text-decoration: none;
+ color: #363958;
+ font-size: 30px;
+ font-weight: bold;
+}
+.footer ul li{
+  display: inline-block;
+  padding: 10px;
+}
+.footer ul li:first-child{
+  color: #F03C7A;
+  }
+  .footer ul li:nth-child(2){
+    color: #F4427E;
+    }
+    .footer ul li:nth-child(3){
+        color: #CD245D;
+        }
